@@ -239,3 +239,6 @@ This repository serves as the official landing page for FortKnox Firewall. The s
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of FortKnox Firewall today!**
+
+---
+**Last updated:** 2026-09-08 22:22:14 UTC
