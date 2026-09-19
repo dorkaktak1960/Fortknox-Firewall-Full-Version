@@ -241,4 +241,4 @@ This repository serves as the official landing page for FortKnox Firewall. The s
 **Get the most recent version of FortKnox Firewall today!**
 
 ---
-**Last updated:** 2026-09-19 17:46:57 UTC
+**Last updated:** 2026-09-19 20:03:57 UTC
